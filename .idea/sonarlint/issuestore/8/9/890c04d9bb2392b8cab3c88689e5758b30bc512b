@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í¤öä
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8Ÿ€àÏ´1
+a
+java:S1128"?Remove this unused import 'tn.esprit.projet.entities.Etudiant'.(òšèùÿÿÿÿ8Ÿ€àÏ´1

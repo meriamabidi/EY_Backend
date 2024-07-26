@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú»‡¯
+v
+java:S1845"`Rename method "retrieveFoyer" to prevent any misunderstanding/clash with method "retrievefoyer".(·Üßì
+]
+java:S1128"GRemove this unused import 'tn.esprit.projet.Services.IEtudiantService'.(‘‹½•
+Z
+java:S1128"?Remove this unused import 'tn.esprit.projet.entities.Etudiant'.(òšžèùÿÿÿÿ
